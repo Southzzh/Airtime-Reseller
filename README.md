@@ -1,8 +1,8 @@
-# Airtime-Reseller
-Pay resellers by name in USDT on Polygon 
 # ResellerPaymentsOpen
 
 **“Pay resellers by name in USDT on Polygon with automatic fee collection.”**
+
+**Live dApp:** https://resellerairtimepaymentdex.netlify.app/  
 
 ---
 
@@ -30,3 +30,5 @@ ResellerPaymentsOpen is a smart contract that allows anyone to register a unique
 1. **Reseller** claims name:  
    ```solidity
    claimResellerName("AliceShop");
+
+   
